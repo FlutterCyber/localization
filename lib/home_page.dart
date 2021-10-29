@@ -18,6 +18,7 @@ class _HomePageState extends State<HomePage> {
           children: [
             Expanded(
               child: Center(
+                // Text(...).tr(), qilmasa ishlamaydi
                 child: Text(
                   'welcome',
                   style: TextStyle(fontSize: 20),
