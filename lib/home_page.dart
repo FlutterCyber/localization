@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
                   child: Text(
                     "English",
                     style: TextStyle(color: Colors.white),
-                  ).tr(),
+                  ),
                 )),
                 SizedBox(
                   width: 3,
@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
                   child: Text(
                     "Russian",
                     style: TextStyle(color: Colors.white),
-                  ).tr(),
+                  ),
                 )),
                 SizedBox(
                   width: 3,
@@ -66,7 +66,7 @@ class _HomePageState extends State<HomePage> {
                     child: Text(
                       "Uzbek",
                       style: TextStyle(color: Colors.white),
-                    ).tr(),
+                    ),
                   ),
                 ),
                 SizedBox(
